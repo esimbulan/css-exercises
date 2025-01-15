@@ -1,0 +1,13 @@
+.black-button {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 100%);
+}
+
+.yellow-button {
+    background-color: hsl(60, 100%, 50%);
+}
+
+.black-button, .yellow-button {
+    font-size: 24px;
+    font-family: Helvetica, "Times New Roman",sans-serif;
+} 
